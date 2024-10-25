@@ -1,0 +1,8 @@
+anyio==4.6.2.post1
+matplotlib==3.9.2
+matplotlib-inline==0.1.7
+numpy==1.26.4
+opencv-python==4.10.0.84
+python-dateutil==2.9.0.post0
+scikit-learn==1.5.2
+tensorflow==2.17.0
